@@ -6,7 +6,7 @@
 
 ## Languages i know: 
 
-<img src='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt='uwu' height='32'> <img src='https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt='uwu' height='32'><img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' alt='uwu' height='32'> <img src='https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png' alt='uwu' height='32'> <img src='https://seeklogo.com/images/N/nim-programming-language-logo-0E27D54E77-seeklogo.com.png' alt='uwu' height='32'> <img src='https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg' alt='uwu' height='32'> 
+<img src='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt='uwu' height='32'> <img src='https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png' alt='uwu' height='32'> <img src='https://seeklogo.com/images/N/nim-programming-language-logo-0E27D54E77-seeklogo.com.png' alt='uwu' height='32'>  <img src='https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt='uwu' height='32'><img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' alt='uwu' height='32'> <img src='https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg' alt='uwu' height='32'> 
 
 
 
